@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 这是master原始内容
+=======
+这是test_c分支中的conflict内容
+>>>>>>> test_c
